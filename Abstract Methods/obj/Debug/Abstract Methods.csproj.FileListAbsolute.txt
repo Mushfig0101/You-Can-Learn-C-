@@ -1,0 +1,7 @@
+C:\Users\Code\source\repos\Abstract Methods\Abstract Methods\bin\Debug\Abstract Methods.exe.config
+C:\Users\Code\source\repos\Abstract Methods\Abstract Methods\bin\Debug\Abstract Methods.exe
+C:\Users\Code\source\repos\Abstract Methods\Abstract Methods\bin\Debug\Abstract Methods.pdb
+C:\Users\Code\source\repos\Abstract Methods\Abstract Methods\obj\Debug\Abstract Methods.csprojAssemblyReference.cache
+C:\Users\Code\source\repos\Abstract Methods\Abstract Methods\obj\Debug\Abstract Methods.csproj.CoreCompileInputs.cache
+C:\Users\Code\source\repos\Abstract Methods\Abstract Methods\obj\Debug\Abstract Methods.exe
+C:\Users\Code\source\repos\Abstract Methods\Abstract Methods\obj\Debug\Abstract Methods.pdb
